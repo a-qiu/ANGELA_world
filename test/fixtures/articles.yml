@@ -3,11 +3,9 @@
 one:
   title: MyString
   content: MyText
-  category_id: 1
-  active: false
+  category_id: MyString
 
 two:
   title: MyString
   content: MyText
-  category_id: 1
-  active: false
+  category_id: MyString
